@@ -18,6 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+<<<<<<< HEAD
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
@@ -25,6 +26,16 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+=======
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
+
+>>>>>>> fb4ec57e6b7c1c8ee5fb08ebd0cf8e6e43f9e85f
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -42,8 +53,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
+=======
+>>>>>>> fb4ec57e6b7c1c8ee5fb08ebd0cf8e6e43f9e85f
   }
 }
