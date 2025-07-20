@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnlineJob/static/css/main.eb551eff.css",
+    "main.js": "/OnlineJob/static/js/main.81cd0499.js",
+    "static/js/453.388c09e8.chunk.js": "/OnlineJob/static/js/453.388c09e8.chunk.js",
+    "index.html": "/OnlineJob/index.html",
+    "main.eb551eff.css.map": "/OnlineJob/static/css/main.eb551eff.css.map",
+    "main.81cd0499.js.map": "/OnlineJob/static/js/main.81cd0499.js.map",
+    "453.388c09e8.chunk.js.map": "/OnlineJob/static/js/453.388c09e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb551eff.css",
+    "static/js/main.81cd0499.js"
+  ]
+}
